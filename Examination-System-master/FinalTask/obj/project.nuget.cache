@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xi9KYnRwsVOmgimIccGN0l0Gapc7MZI4Rgw5tVw43uSwnE6nTgnLE1WYN6EHiCHXKn9xaQkYTY3qXSDPXu7PRg==",
+  "success": true,
+  "projectFilePath": "D:\\Route\\C#\\Project\\Examination-System-master\\FinalTask\\FinalTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\abdos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\abdos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\abdos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
